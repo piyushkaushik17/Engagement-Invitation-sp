@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 640" fill="none">
+  <defs>
+    <linearGradient id="leaf" x2="1" y2="1"><stop stop-color="#a9c7dc"/><stop offset="1" stop-color="#d9e8f3" stop-opacity=".65"/></linearGradient>
+    <radialGradient id="pink"><stop stop-color="#fff7fb"/><stop offset=".55" stop-color="#efcedf"/><stop offset="1" stop-color="#d6a0bf" stop-opacity=".8"/></radialGradient>
+    <radialGradient id="blue"><stop stop-color="#fbfdff"/><stop offset=".6" stop-color="#c7dbef"/><stop offset="1" stop-color="#9bbad9" stop-opacity=".75"/></radialGradient>
+    <g id="petals"><ellipse cy="-12" rx="10" ry="15"/><ellipse cy="-12" rx="10" ry="15" transform="rotate(72)"/><ellipse cy="-12" rx="10" ry="15" transform="rotate(144)"/><ellipse cy="-12" rx="10" ry="15" transform="rotate(216)"/><ellipse cy="-12" rx="10" ry="15" transform="rotate(288)"/></g>
+    <g id="pink-flower"><use href="#petals" fill="url(#pink)"/><circle r="5" fill="#d8ba9e"/><circle r="2" fill="#fff6e4"/><g fill="#fff8f1"><circle cx="-3" cy="-2" r="1"/><circle cx="2" cy="-3" r="1"/><circle cx="3" cy="2" r="1"/><circle cx="-2" cy="3" r="1"/></g></g>
+    <g id="blue-flower"><use href="#petals" fill="url(#blue)"/><circle r="4" fill="#c9b2c9"/><circle r="1.7" fill="#fff8fb"/></g>
+    <path id="small-leaf" d="M0 0C-22-12-33-35-24-53-4-50 10-29 0 0Z" fill="url(#leaf)" stroke="#9db9d1" stroke-width=".5"/>
+  </defs>
+  <path d="M33 638C93 539 35 482 109 395S110 224 210 60M71 544C14 526 17 468 25 437M71 505C139 505 172 470 187 434M98 413C40 396 49 348 55 326M124 354C188 334 206 306 222 265M132 285C80 269 86 225 89 209M155 213C209 197 226 157 231 141M187 124C157 111 169 77 177 59" stroke="#a6afbd" stroke-width="1.4"/>
+  <g opacity=".85">
+    <use href="#small-leaf" transform="translate(57 589) rotate(-24)"/><use href="#small-leaf" transform="translate(71 551) rotate(65) scale(.9)"/><use href="#small-leaf" transform="translate(61 505) rotate(-35) scale(.85)"/><use href="#small-leaf" transform="translate(102 500) rotate(90)"/><use href="#small-leaf" transform="translate(157 474) rotate(45) scale(.75)"/>
+    <use href="#small-leaf" transform="translate(42 509) rotate(-26) scale(.7)"/><use href="#small-leaf" transform="translate(25 468) rotate(9) scale(.7)"/><use href="#small-leaf" transform="translate(81 441) rotate(37)"/><use href="#small-leaf" transform="translate(77 399) rotate(-29) scale(.8)"/><use href="#small-leaf" transform="translate(55 360) rotate(8) scale(.65)"/>
+    <use href="#small-leaf" transform="translate(127 370) rotate(32) scale(.8)"/><use href="#small-leaf" transform="translate(163 338) rotate(62) scale(.85)"/><use href="#small-leaf" transform="translate(200 301) rotate(35) scale(.7)"/><use href="#small-leaf" transform="translate(127 304) rotate(-39) scale(.8)"/><use href="#small-leaf" transform="translate(100 266) rotate(-24) scale(.7)"/>
+    <use href="#small-leaf" transform="translate(141 252) rotate(30) scale(.7)"/><use href="#small-leaf" transform="translate(183 201) rotate(62) scale(.75)"/><use href="#small-leaf" transform="translate(164 186) rotate(-15) scale(.8)"/><use href="#small-leaf" transform="translate(199 141) rotate(22) scale(.7)"/><use href="#small-leaf" transform="translate(197 89) rotate(15) scale(.6)"/>
+  </g>
+  <g opacity=".9">
+    <use href="#pink-flower" transform="translate(39 567) rotate(-15) scale(1.2)"/><use href="#blue-flower" transform="translate(86 535) rotate(20) scale(.85)"/><use href="#pink-flower" transform="translate(29 436) rotate(-12) scale(.92)"/><use href="#pink-flower" transform="translate(184 433) rotate(22) scale(1.15)"/>
+    <use href="#blue-flower" transform="translate(160 464) rotate(-15) scale(.75)"/><use href="#pink-flower" transform="translate(104 393) rotate(12) scale(.9)"/><use href="#blue-flower" transform="translate(54 324) rotate(30) scale(.82)"/><use href="#pink-flower" transform="translate(218 265) rotate(-20) scale(1.1)"/>
+    <use href="#blue-flower" transform="translate(191 298) rotate(10) scale(.72)"/><use href="#pink-flower" transform="translate(91 207) rotate(25) scale(.78)"/><use href="#blue-flower" transform="translate(153 219) rotate(5) scale(.8)"/><use href="#pink-flower" transform="translate(231 141) rotate(-20) scale(.92)"/>
+    <use href="#pink-flower" transform="translate(177 59) rotate(15) scale(.63)"/><use href="#blue-flower" transform="translate(210 62) rotate(-10) scale(.8)"/>
+  </g>
+  <g fill="#cf9fbd" opacity=".75"><ellipse cx="118" cy="428" rx="4" ry="7" transform="rotate(22 118 428)"/><ellipse cx="139" cy="311" rx="4" ry="6"/><ellipse cx="196" cy="181" rx="3" ry="5"/><ellipse cx="27" cy="477" rx="3" ry="6"/></g>
+  <g fill="#cfbc9d"><circle cx="197" cy="413" r="2"/><circle cx="206" cy="405" r="1.5"/><circle cx="233" cy="244" r="2"/><circle cx="239" cy="235" r="1.4"/><circle cx="35" cy="311" r="1.8"/><circle cx="227" cy="103" r="1.6"/></g>
+</svg>

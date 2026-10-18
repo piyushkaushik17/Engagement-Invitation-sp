@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="500" viewBox="0 0 200 500" fill="none">
+  <title>Photo-inspired illustration of Piyush</title>
+  <desc>A smiling man with swept dark hair, a neat beard and metal glasses, wearing a blue-grey suit and a muted rose tie.</desc>
+  <defs>
+    <linearGradient id="suit" x1="45" y1="175" x2="157" y2="362" gradientUnits="userSpaceOnUse"><stop stop-color="#59637e"/><stop offset="1" stop-color="#363d55"/></linearGradient>
+    <linearGradient id="skin" x1="61" y1="45" x2="135" y2="151" gradientUnits="userSpaceOnUse"><stop stop-color="#e9b99b"/><stop offset="1" stop-color="#c98c72"/></linearGradient>
+    <linearGradient id="hair" x1="64" y1="18" x2="130" y2="113" gradientUnits="userSpaceOnUse"><stop stop-color="#383647"/><stop offset="1" stop-color="#232634"/></linearGradient>
+    <linearGradient id="trousers" x1="76" y1="331" x2="121" y2="470" gradientUnits="userSpaceOnUse"><stop stop-color="#42485f"/><stop offset="1" stop-color="#2f354b"/></linearGradient>
+  </defs>
+  <ellipse cx="98" cy="485" rx="72" ry="8" fill="#b7a9c4" opacity=".18"/>
+  <path d="M59 322 58 463c3 10 21 11 27 3l17-108 7 108c5 9 23 10 28 1l5-144Z" fill="url(#trousers)"/>
+  <path d="m98 343 5 87m-36-70-2 78m58-77 4 78" stroke="#70738a" stroke-opacity=".32" stroke-width="2" stroke-linecap="round"/>
+  <path d="m58 458-14 17c-8 14 9 17 28 14l14-8-3-23Z" fill="#514951"/>
+  <path d="M109 458v22c10 11 33 12 43 6 5-5-3-10-17-23Z" fill="#514951"/>
+  <path d="M45 484c14 4 29 1 39-5m27 4c12 6 26 7 37 3" stroke="#b39d9e" stroke-width="2"/>
+  <path d="M78 134v36l22 20 22-20v-37" fill="url(#skin)"/>
+  <path d="M79 144c12 8 30 9 42-1v11c-13 8-30 7-42-1Z" fill="#b87966" opacity=".35"/>
+  <path d="m74 166-27 11c-9 4-12 15-14 30l-11 84c0 13 12 31 22 30l14-48 2 54c27 19 63 19 86 1l4-83 12 48c4 10 17 17 25 11l8-13c-12 3-18-5-22-22l-11-66c-2-14-8-22-19-27l-22-10-21 22Z" fill="url(#suit)" stroke="#3d4258" stroke-width="1.5"/>
+  <path d="m77 163 23 23 23-23-11 96H91Z" fill="#eef3fb"/>
+  <path d="m99 185-10 11 10 13 10-13Z" fill="#b86c88"/>
+  <path d="m99 207-8 41 10 13 9-14-8-40Z" fill="#a85b7a"/>
+  <path d="m74 166-14 31 24 20-10 15 25 50-8-68Zm51 0 15 29-24 22 9 15-24 50 10-68Z" fill="#69718c" stroke="#394158" stroke-width="1.3"/>
+  <path d="m132 204 13-12 8 19Z" fill="#c988a2"/>
+  <path d="m125 220 27-3M57 281l25 4m38 2 24-6" stroke="#8d91a4" stroke-width="1.5"/>
+  <path d="M101 269v50" stroke="#2e344a" stroke-width="1.5"/>
+  <circle cx="102" cy="275" r="3" fill="#8c8da1"/><circle cx="102" cy="303" r="3" fill="#8c8da1"/>
+  <path d="m32 287 8 8 9-10 4 20c-4 11-12 13-18 3Z" fill="url(#skin)"/>
+  <path d="m169 286 8-2c5 3 9 2 14 2 7 0 11 7 6 12-5 6-13 10-21 6l-7-6" fill="url(#skin)" stroke="#b97f6e" stroke-width="1"/>
+  <path d="m184 290 11 1m-10 4 9 1" stroke="#b97f6e" stroke-width="1" stroke-linecap="round"/>
+  <path d="m165 283 9-4 4 18-10 4Z" fill="#f0f1f7"/>
+  <path d="m168 286 8-2 3 12-8 2Z" fill="#a99784"/><rect x="168" y="285" width="9" height="11" rx="3" fill="#d5c9b3" transform="rotate(-15 168 285)"/>
+  <ellipse cx="55" cy="95" rx="10" ry="16" fill="#cd947b"/><ellipse cx="144" cy="95" rx="9" ry="16" fill="#cd947b"/>
+  <path d="M54 67c2-31 26-43 49-42 27 0 43 17 42 47l-3 42c-2 24-24 44-43 44-21 0-42-18-44-43Z" fill="url(#skin)"/>
+  <path d="M55 94c-9-16-12-42 2-58 10-12 24-17 38-16 16-13 43-9 48 4 12 8 10 30 2 45l-4 22-8-35c-20 7-46 4-63 0l-10 37Z" fill="url(#hair)"/>
+  <path d="M65 37c16-12 35-16 58-11M72 44c16-5 32-6 48-4" stroke="#616073" stroke-width="3" stroke-linecap="round" opacity=".55"/>
+  <path d="m56 105 9 12 6 12c18 13 37 12 54-2l11-23 5 9c-4 31-24 48-43 48-19-1-37-16-42-43Z" fill="#36323d"/>
+  <path d="M74 124c8-8 15-10 24-7 10-3 17-1 25 6-7 18-39 21-49 1Z" fill="#b87f6d"/>
+  <path d="M81 122c10 5 23 5 34-1-3 14-28 18-34 1Z" fill="#fff4ed"/>
+  <path d="M79 117c7-4 13-5 19-2 6-3 13-2 20 2" stroke="#34303a" stroke-width="4" stroke-linecap="round"/>
+  <path d="m98 90-4 15c3 4 7 4 10 1" stroke="#b47b68" stroke-width="2" stroke-linecap="round"/>
+  <path d="M66 77c7-5 16-6 24-3m20 0c7-4 16-3 22 2" stroke="#413442" stroke-width="3" stroke-linecap="round"/>
+  <path d="M67 91c5-5 12-5 17 0m30-1c5-5 12-5 17 0" stroke="#4e3a40" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="77" cy="92" rx="2.8" ry="3.5" fill="#37313c"/><ellipse cx="122" cy="91" rx="2.8" ry="3.5" fill="#37313c"/>
+  <path d="M59 83h31c5 0 6 7 4 17-2 10-7 14-17 13-12 0-17-7-18-18Zm47 0h31l-1 13c-1 11-7 17-17 17-11 0-15-6-16-16-1-9-1-13 3-14Z" fill="#e7effc" fill-opacity=".12" stroke="#b9b5a7" stroke-width="2.8"/>
+  <path d="M94 89c3-3 6-3 10 0m-45-2-6-4m85 4 5-4" stroke="#a8a49b" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="m63 87 7-1m39 1 8-1" stroke="white" stroke-opacity=".65" stroke-width="2" stroke-linecap="round"/>
+</svg>

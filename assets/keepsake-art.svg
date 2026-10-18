@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1440" viewBox="0 0 1080 1440">
+  <title>Samridhi and Piyush's engagement keepsake</title>
+  <desc>An original illustrated invitation for 28 November 2026, 10:00 AM onwards, at The Cove, Sector 5, Panchkula.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1080" y2="1440" gradientUnits="userSpaceOnUse"><stop stop-color="#fbeaf2"/><stop offset=".48" stop-color="#fff9fc"/><stop offset="1" stop-color="#e3eff9"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#fffdf6"/><stop offset="1" stop-color="#fff9fc" stop-opacity="0"/></radialGradient>
+  </defs>
+  <path fill="url(#paper)" d="M0 0h1080v1440H0z"/>
+  <ellipse cx="540" cy="650" rx="470" ry="580" fill="url(#glow)"/>
+  <rect x="40" y="40" width="1000" height="1360" rx="480" fill="none" stroke="#bca8c6" stroke-width="2"/>
+  <rect x="57" y="57" width="966" height="1326" rx="465" fill="none" stroke="#c6b9d0" stroke-width="1" stroke-dasharray="3 8"/>
+  <image href="blossom-spray.svg" x="-100" y="480" width="300" height="760" opacity=".55"/>
+  <image href="blossom-spray.svg" x="-1180" y="480" width="300" height="760" opacity=".55" transform="scale(-1 1)"/>
+  <g text-anchor="middle">
+    <text x="540" y="202" font-family="Georgia,serif" font-size="22" letter-spacing="7" fill="#98738e">THE BEGINNING OF FOREVER</text>
+    <text x="540" y="326" font-family="Georgia,serif" font-size="89" fill="#9b5677"><tspan font-style="italic">Samridhi</tspan> &amp; <tspan fill="#526f8f">Piyush</tspan></text>
+    <text x="540" y="378" font-family="Arial,sans-serif" font-size="22" letter-spacing="2" fill="#71677c">SAMRIDHI SHARMA &amp; PIYUSH KAUSHIK</text>
+    <text x="540" y="430" font-family="Georgia,serif" font-size="26" font-style="italic" fill="#9b5677">Two paths. One promise.</text>
+  </g>
+  <path d="M275 1110V700a265 265 0 0 1 530 0v410" fill="none" stroke="#c3afc9" stroke-width="1.5" stroke-dasharray="4 8"/>
+  <image href="piyush-illustration.svg" x="294" y="470" width="260" height="650"/>
+  <image href="samridhi-illustration.svg" x="526" y="470" width="260" height="650"/>
+  <text x="540" y="825" text-anchor="middle" font-family="Georgia,serif" font-size="52" fill="#b27694">♡</text>
+  <g text-anchor="middle">
+    <text x="540" y="1175" font-family="Georgia,serif" font-size="35" fill="#51475f">Saturday, 28 November 2026</text>
+    <text x="540" y="1225" font-family="Arial,sans-serif" font-size="26" fill="#9b5677">10:00 AM onwards · India Standard Time</text>
+    <text x="540" y="1280" font-family="Georgia,serif" font-size="30" fill="#526f8f">The Cove · Sector 5, Panchkula</text>
+    <text x="540" y="1334" font-family="Georgia,serif" font-size="22" font-style="italic" fill="#8f718b">With love, the Sharma &amp; Kaushik families</text>
+  </g>
+</svg>
